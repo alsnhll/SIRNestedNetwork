@@ -1,6 +1,6 @@
 # SIRNestedNetwork
 
-This Python code generates the simulations presented in Figure 3 of the manuscript "Crowding dictates the epidemic intensity of COVID-19 transmission across China" by Rader et al. 
+This Python code generates the simulations presented in Figure 3 of the manuscript [Crowding dictates the epidemic intensity of COVID-19 transmission across China](https://www.nature.com/articles/s41591-020-1104-0) by Rader et al., Nature Medicine, 2020. 
 
 This analysis was conducted in collaboration with [Ben Adlam](https://research.google/people/BenAdlam/) and [Anjalika Nande](https://ped.fas.harvard.edu/people/anjalika-nande). 
 
